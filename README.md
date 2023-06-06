@@ -7,5 +7,7 @@ A user indicates to you that they were having audio issues, so they went to what
 
 
 Open the zip on an isolated VM. Recommend using 7zip to unpack the zip so you can enter the password provided to you. 
+
 As a best practice, if you plan to execute anything, please take a snapshot beforehand, and restore to that snapshot once you are done analyzing the file(s).
+
 Analyze the file(s) as you see fit, and include any information gathered in the report. 
