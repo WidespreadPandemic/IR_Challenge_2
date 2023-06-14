@@ -6,6 +6,8 @@ A user indicates to you that they were having audio issues, so they went to Goog
 **PLEASE NOTE**
 
 
+The order of the images for the incident are: User.png, User2.png, & SSH.png.
+
 Open the zip on an isolated VM. Recommend using 7zip to unpack the zip so you can enter the password provided to you. 
 
 As a best practice, if you plan to execute anything, please take a snapshot beforehand, and restore to that snapshot once you are done analyzing the file(s).
